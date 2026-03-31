@@ -1,0 +1,14 @@
+deterministic-customer-churn-pipeline/
+│
+├── data/
+│   └── churn_data.csv
+│
+├── src/
+│   ├── preprocess.py
+│   ├── features.py
+│   ├── model.py
+│   ├── evaluate.py
+│   └── main.py
+│
+├── requirements.txt
+└── README.md
